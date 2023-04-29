@@ -19,13 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Animal Crossing Music
-email: mail@acmusicext.com
-description: Home page of the 'Animal Crossing Music' Chrome extension 
+description: Home page of the 'Animal Crossing Music' browser extension 
 baseurl: "/"
-url: "https://acmusicext.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ac_music_ext
-github_username:  animal-crossing-music-extension
-github_repository: "animal-crossing-music-extension/ac-music-extension"
+url: "https://ac-music-extension-j.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  ac-music-extension-j
+github_repository: "ac-music-extension-j/ac-music-extension-j"
 webstore_link: "animal-crossing-music/fcedlaimpcfgpnfdgjbmmfibkklpioop"
 
 # Build settings
