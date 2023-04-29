@@ -13,7 +13,7 @@ Play Animal Crossing's background music in real-time throughout your day!
 
 **Animal Crossing Music** is an unofficial, non-profit, [open-source](https://github.com/animal-crossing-music-extension/ac-music-extension), and most importantly, *fun* browser extension that allows you to play music from the Animal Crossing series in your browser while you browse the web! It makes use of Nintendo's resources [under fair use](https://en.wikipedia.org/wiki/Fair_use).
 
-[The J variant](https://github.com/ac-music-extension-j/ac-music-extension-j) was made after over 3 years of no upstream maintenance, and a strong love for Animal Crossing.
+[The J variant](https://github.com/ac-music-extension-j/ac-music-extension-j) is a fork. It was made after over 3 years of no upstream maintenance, and a strong love for Animal Crossing. *The J variant of Animal Crossing Music is not associated with upstream.*
 
 <img class="border border-secondary rounded mb-2" src="img/banner.png"/>
 
